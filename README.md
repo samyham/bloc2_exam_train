@@ -13,6 +13,7 @@ Ce projet a pour objectif de construire un pipeline complet de traitement de don
 ---
 
 ## 🧱 Architecture du projet
+
 bloc2_project/
 │
 ├── data/
